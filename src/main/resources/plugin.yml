@@ -1,0 +1,8 @@
+name: Biskuit
+version: '${project.version}'
+main: me.tud.biskuit.Biskuit
+api-version: 1.18
+softdepend: [ Skript ]
+authors: [ _tud ]
+prefix: '[Biskuit]'
+description: A bit manipulation Skript addon
